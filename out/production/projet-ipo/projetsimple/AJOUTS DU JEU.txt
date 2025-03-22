@@ -1,0 +1,37 @@
+VRAI AJOUT : 
+
+Ajout d'une interface
+
+La propagation du feu se met aussi desormais sur la sortie 
+
+Ajout d'un ecran de fin personnalisable
+
+Ajout d'une table de score actualisable et automatique( j'ai modifier le code du pro )
+
+Ajout d'une meilleur modelisation du joueur( regarde a gauche a droite etc ) // Je dois rajouter le fait que le 
+
+joeur si j'appuie une fois sur la touche change de directions 
+
+L'animation d'ajouts des portes se fait selon le fait que la porte soit un mur vertical ou un mur horizental
+
+
+Ajout de blocs comme mur
+
+Ajout de clefs pour representer les clefs
+
+Ajout d'un randomisateur de clef par zone 
+
+Ajout du fait que la chaleur des flammes sera calculé aleatoirement selon des probas renseigné dans une fonction de terrain
+		
+
+Ajout du fait que le joueur spawn lui aussi aleatoire dans une zone precise mais jamais sur la meme case pour rajouter du dynamisme et eviter la redondance
+
+Ajout du fait que la sortie spawn a un endroit different, en plus de cela pour permettre une parfaite experience de jeu, au cas ou l'on se trompe d'endroit quant a la sortie il y'aura une clef a l'endroit ou la sortie ne sera pas
+
+Un affichage durant le jeu qui te donne tes hp, la duree de la partie en direct, le nombre de clefs
+
+une soundboard complete degats ramassage fin de partie ouverture de portes 
+
+score = en fonction de l'endroit de la map + nombre de clef*5 + nombre d'hp restant
+
+
